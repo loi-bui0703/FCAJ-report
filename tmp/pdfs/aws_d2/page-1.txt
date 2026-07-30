@@ -1,0 +1,39 @@
+AAVS120. 2;
+es
+fog TNHH x)
+(AMAZON)
+WÌ WEB SERVICES / +.
+` THONG TIN VE DOANH NGHIỆP (DN):
+Tên day đủ: Công ty TNHH Amazon Web Services Việt Nam
+aWS Địa chỉ: Tang 36 Tòa nhà Bitexco Financial Tower, Số 2 đường Hải
+Triều, Phường Sài Gòn, TP Ho Chí Minh, Việt Nam
+wee Mã số thuế: 0314175120
+Website link: https://aws.amazon.com/vil
+: CHƯƠNG TRÌNH l l
+'THỰC TẬP TÓT NGHIỆP (TTTN)/ THỰC TẬP NGOÀI TRƯỜNG (TTNT)
+DÀNH RIÊNG CHO SINH VIÊN
+KHOA KH&KT MAY TÍNH - TRƯỜNG DH BACH KHOA - ĐHQG TP.HCM
+HỌC KỲ 3/2025-2026 (HK253)
+(Thời gian thực tập thực tế từ 15/06-14/08/2026)
+L NỘI DUNG:
+1. Giới thiệu sơ bộ ve DN:
+Amazon Web Services (AWS) là nền tảng điện toán đám mây toàn diện và được sử dụng rộng rãi KK
+nhất thé giới, cung cấp hon 200 dich vụ day đủ tính năng từ các trung tâm dif liệu trên toàn cầu. by
+AWS là một công ty con thuộc tập đoàn Amazon, chuyên cung cấp các giải pháp ha ting công nghệ kì
+như điện toán, lưu trữ, cơ sở dữ liệu cho hàng triệu khách hàng — bao gôm các công ty khởi nghiệp ‘elt
+phát triển nhanh nhất, các tập đoàn lớn nhất và các co quan chính phủ hang đầu. Tại Việt Nam, AWS
+tập trung hỗ trợ các doanh nghiệp chuyển đổi số, tối ưu hóa quy trình vận hành và thúc đẩy đôi mới Xà
+sáng tạo thông qua các công nghệ tiên tiến như Trí tuệ nhân tạo (AI), Machine Learning (ML) và
+Internet vạn vật (IoT).
+2. Chương trình:
+AWS First Cloud AI Journey (FCAJ) là chương trình dào tạo điện toán đám mây miễn phí được
+thiết kế dành riêng cho cộng đồng công nghệ tại Việt Nam, với mục tiêu giúp người học tiếp cận và
+làm chủ các kiến thức, kỹ năng về AWS Cloud một cách bài bản và thực tiễn.
+Với sứ mệnh thu hẹp khoảng cách giữa lý thuyết đại học và yêu cầu thực tế doanh nghiệp thông qua
+việc đào tạo kỹ năng Cloud Computing Thông qua đó, FCA1 không chỉ góp phần nâng cao năng lực
+công nghệ cho người học mà còn đóng vai trò quan trọng trong việc xây dựng thế hệ nhân lực chất
+lượng cao cho tương lai số.
+Với cộng đồng hơn 50.000 thành viên, FCAJ đã kết nối được hàng nghìn sinh viên và các kỹ sư công
+nghệ, đồng thời hợp tác với hơn 30 trường đại học trên cả nước để đưa nội dung AWS Cloud vào
+chương trình giảng dạy.
+1

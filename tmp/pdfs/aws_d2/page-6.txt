@@ -1,0 +1,32 @@
+[| ~_ Implement Version Management for infrastructure artifacts and constructs
+= Configure CloudWatch Alarms and automated Rollback Procedures for failed
+deployments.
+7 - Apply Cost Optimization strategies, including resource tagging, automated cleanup of
+temporary environments, and right-sizing instances.
+- Perform Drift Detection and environment consistency checks.
+- Generate technical documentation including architecture diagrams and API references
+| for custom constructs.
+. - Conduet final end-to-end validation of the automated CI/CD lifecycle.
+- Prepare the final report demonstrating the Advanced Patterns implemented
+5, ĐỀ tài 5: Machine Learning on AWS _
+'Tên đề tài: Xây dựng và triển khai hệ thống Machine Learning end-to-end trên AWS với
+SageMaker
+Ngôn ngữ lập trình: Python / khác
+Framework: Amazon SageMaker, Scikit-learn / XGBoost / PyTorch, Amazon $3, AWS Lambda, 2
+Amazon API Gateway, CloudWatch a
+Timeline như bảng dưới đây:
+es
+; ¢
+NOi dung công việc b>
+Tim hiểu tổng quan về ML workflow và hệ sinh thái AWS ML; cấu hình môi trường (IAM,
+S3, SageMaker Studio)
+Chuẩn bị và xử lý dữ liệu (Data preprocessing, feature engineering) với SageMaker Processing
+Jobs
+3. | Huấn luyện mô hình (Training Jobs) trên SageMaker; thử nghiệm các built-in algorithms hoặc
+custom script
+4 | Theo dõi thí nghiệm với SageMaker Experiments; tối wu siêu tham số với Automatic Model
+Tuning (HPO)
+Đóng gói và đăng ký mô hình vào SageMaker Model Registry; thiết lập model versioning
+6 | Triển khai mô hình lên SageMaker Endpoint (real-time inference); tích hợp API Gateway +
+Lambda để expose REST API
+6

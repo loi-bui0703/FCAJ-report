@@ -1,0 +1,36 @@
+'Tên dé tài:Xây dựng và phát triển ứng dụng Web trên nền tảng Cloud
+Ngôn ngữ lập trình: Python/JavaScript/khác
+Framework: FastAPI/Node,js, các dich vụ AWS (EC2, S3, RDS/DynamoDB, API Gateway,
+CloudWatch,...).
+Timeline như bảng dưới đây:
+Nội dung công việc
+[Tìm hiểu tổng quan về kiến trúc Web trên Cloud
+|Xây dựng và trién khai ứng dụng Web
+'Triển khai ứng dụng lên AWS (EC2/Lambda/API Gateway,...), kết nói với dich vụ lưu trữ (S3)
+[Tích hợp cơ sở dit 1igu (RDS/DynamoDB)
+| [Tích hợp logging và monitoring với CloudWatch, xử lý lôi và đảm bảo tính én định hệ thống
+[6 _ [Phát triển thêm các chức năng nâng cao, tôi ưu cầu trúc code và API
+Kiém thử hệ thông, tối ưu hiệu năng và cải thiện trải nghiệm người dùng,
+[8 _ [Hoàn thiện hệ thống và tài liệu, demo sản phẩm, tng kết và đánh giá
+4, Đề tài 4: DevOps & CI/CD
+'Tên dé tai: Infrastructure as Code với CDK và Advanced patterns
+Ngôn ngữ lập trình: TypeScript/Python,
+Framework: AWS CDK v2, Jest/Pytest, Github Actions
+‘Timeline như bảng dưới đây: :
+Nội dung công việc. N
+~ Initialize the project structure using AWS CDK v2 with TypeScripUPython.
+1-7 | > Implement Custom Constructs (L3) to encapsulate reusable infrastructure patterns n
+ề - Establish Version Control workflows and branching strategies for Infrastructure as Code W
+<
+g
+- Design and implement Cross-stack references using SSM Parameter Store or
+Export/Import values to decouple Network, Data, and App layers.
+- Develop a comprehensive Testing Framework using Jest/Pytest.
+3-4
+- Apply Fine-grained Assertions and Snapshot Testing to validate CloudFormation
+templates before deployment.
+- Build automated Deployment Pipelines using GitHub Actions.
+5-6 - Integrate Security Validation tools like cdk-nag to enforce compliance and security best
+practices during the synthesis phase.
+5
+|

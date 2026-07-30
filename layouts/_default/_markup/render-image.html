@@ -1,0 +1,18 @@
+{{ $url := .Destination }}
+{{ $url = strings.TrimPrefix "/" $url }}
+{{ $url = strings.TrimPrefix "static/" $url }}
+{{ $cacheVersion := "" }}
+{{ if hasPrefix .Destination "/images/events/" }}
+  {{ $sourcePath := printf "static/%s" $url }}
+  {{ if fileExists $sourcePath }}
+    {{ with os.Stat $sourcePath }}
+      {{ $cacheVersion = printf "?v=%d" .ModTime.Unix }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+<img
+  src="{{ $url | relURL }}{{ $cacheVersion }}"
+  alt="{{ .Text }}"
+  {{ if hasPrefix .Destination "/images/events/" }}class="event-evidence-photo"{{ end }}
+  {{ with .Title }}title="{{ . }}"{{ end }}
+/>

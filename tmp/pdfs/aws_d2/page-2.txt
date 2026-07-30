@@ -1,0 +1,38 @@
+‘Thanh tựu đã đạt được
+© Hợp tác chiến lược: Đã triển khai thành công tại các trường: Đại học FPT, Swinburne
+Vietnam, Greenwich Vietnam, Đại học Gia Định, Hutech, Sư phạm Kỹ Thuật TP.HCM,
+... và còn rất nhiều trường đại học khác.
+© Đối tác tuyển dụng: ITviec, VNG, HDBank, Techcombank, Renova Cloud,
+G-AsiaPacific, Katalon, VIB, VP Bank,...
+Hon 1000 sinh viên dat chứng chi AWS Certified Cloud Practitioner sau mỗi mùa Bootcamp.xx
+Điều kiện tham gia:
++ Là sinh viên trường Đại học Bách khoa TP.HCM.
++ Sinh viên năm 3 (hoặc năm 4) dang trong giai đoạn tìm kiếm công ty thực tập.
++ Có nguyện vọng học hỏi, kết nối, mong muốn tìm hiểu để có thêm kiến thức về lĩnh vực điện
+toán đám mây.
++ Đây là chương trình miễn phí. Tuy nhiên sinh viên cần tạo account AWS và chuẩn bj ít nhất
+$20/tháng dé làm lab. Lưu ý, khoản phí này là khoản chi phí làm lab trên account cá nhân sinh
+viên, không phải đóng cho chương trình.
+Nếu sinh viên quan lý tài khoản tốt thì chỉ phí làm lab sẽ thấp hơn hoặc có thé không tốn và
+ngược lại.
+Sinh viên tham gia chương trình cần đảm bảo các yêu cầu đầu ra sau:
++ Hoàn thành 1 project và bản báo cáo trong suốt quá trình thực tập tại doanh nghiệp.
++ Project phải được xây dựng trên nền tang điện toán đám mây Amazon Web Services.
++ Tham gia học tập/làm việc tại văn phòng AWS it nhất 1 ngày/tuần. Thời gian cụ thể sẽ được
+team admin sắp xếp theo từng ngày.
++ Sau khi boàn thành project phải viết báo cáo kèm video demo và giải thích chỉ tiết. »
+AI
+Ngoài kiến thức chuyên môn về ngành Khoa học và Kỹ thuật Máy Tính - Công nghệ Thông tỉn, %
+chương trình đảm bảo/ cam kết trang bị cho sinh viên (SV) đầy đủ kỹ năng sau:
+(DN sẽ chấm điểm kỳ thực tập cho SV theo tiên chi trong bảng dưới đây — mẫu bằng điển đính kèm - A
+file D4). nee
+IN
+n—.—=
+Kha năng xác định được vai trò, vị trí và công việc của minh trong nhóm.
+Xác định được quy trình làm việc trong nhóm một cách rõ ràng.
+Khả năng cộng tic với các thành viên khác trong nhóm. Khả năng trao đồi 15
+với các thành viên trong nhóm để phối hợp thực hiện các nhiệm vụ chung
+và nhiệm vụ của bản thân. Khả năng dung hòa được các hoạt động của
+mình với tiến độ chung. Khả năng giúp đỡ các thành viên khác nêu có thể
+để cùng đảm bảo hoàn thành kế hoạch nhóm đúng tiền độ.
+2
