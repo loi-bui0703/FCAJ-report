@@ -11,7 +11,8 @@ pre: " <b> 8. </b> "
 ---
 
 ### 1. Source Code & Repositories
-
+- **Production link:**
+  👉 **[tetris.app](http://react-tetris-loibui-1785508264.s3-website-ap-southeast-1.amazonaws.com)**
 - **DevSecOps Factory Official Source Repository (GitHub):**  
   👉 **[loibui0703/CICD-DevSecOps-using-AWS-services](https://github.com/loi-bui0703/CICD-DevSecOps-using-AWS-services.git)**
 - **Internship Report & Workshop Website Repository:**  

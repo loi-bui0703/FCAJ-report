@@ -12,6 +12,8 @@ pre: " <b> 8. </b> "
 
 ### 1. Mã nguồn & Kho lưu trữ dự án (Repositories)
 
+- **Link Sản phẩm:**
+  👉 **[tetris.app](http://react-tetris-loibui-1785508264.s3-website-ap-southeast-1.amazonaws.com)**
 - **Mã nguồn Dự án DevSecOps Factory (GitHub Repository):**  
   👉 **[loibui0703/CICD-DevSecOps-using-AWS-services](https://github.com/loi-bui0703/CICD-DevSecOps-using-AWS-services.git)**
 - **Kho lưu trữ Báo cáo Thực tập & Workshop Website:**  
