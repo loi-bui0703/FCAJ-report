@@ -55,13 +55,13 @@ tetris-app/
 
 ### Verification Screenshots: App Build & Docker Testing
 
-![Build React App](/images/5-Workshop/5.3-Step-by-Step/app-01-run_build_app.png)
+![Build React App](/images/5-Workshop/5.3-Step-by-Step/app-01-run_build_app.jpg)
 *Figure 5.5.1b: Compiling the React Tetris web application (`npm run build`).*
 
-![Build Docker Image](/images/5-Workshop/5.3-Step-by-Step/app-02-build_docker.png)
+![Build Docker Image](/images/5-Workshop/5.3-Step-by-Step/app-02-build_docker.jpg)
 *Figure 5.5.1c: Packaging the Multi-stage Docker container image for the application.*
 
-![App Local UI](/images/5-Workshop/5.3-Step-by-Step/app-02-docker_app.png)
+![App Local UI](/images/5-Workshop/5.3-Step-by-Step/app-02-docker_app.jpg)
 *Figure 5.5.1d: Tetris game web UI running locally via Docker container for preliminary verification.*
 
 ![AWS CloudWatch Logs Insights](/images/5-Workshop/5.3-Step-by-Step/aws_cloudwatch_insights.png)
