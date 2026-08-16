@@ -79,17 +79,6 @@ Community discussion giúp tôi nhận ra khoảng trống trong monitoring và 
 
 Bài học quan trọng nhất là system health phải được đánh giá từ góc nhìn người dùng. Reliable cloud engineering cũng yêu cầu ownership, evidence và security control xuyên suốt development lifecycle.
 
-#### Một số hình ảnh sự kiện
 
-![Bùi Hữu Lợi tham dự trực tiếp AWS Tech Meetup và Chia sẻ kiến thức cộng đồng](/images/events/aws-tech-meetup-2026-07-22-rev2.png)
-
-<!-- ẢNH BỔ SUNG EVENT 2 - 1: Chèn thêm ảnh trong monitoring, certification hoặc security session bên dưới comment này.
-Tên file đề xuất: static/images/events/bui-huu-loi-event2-session.jpg
-Không để lộ thông tin cá nhân hoặc thông tin tài khoản.
--->
-
-<!-- ẢNH BỔ SUNG EVENT 2 - 2: Chèn ảnh networking hoặc ảnh nhóm đã được cho phép bên dưới comment này.
-Tên file đề xuất: static/images/events/bui-huu-loi-event2-networking.jpg
--->
 
 > Nhìn chung, meetup giúp tôi củng cố hiểu biết về user-centered monitoring, shared cloud responsibility, certification reasoning và evidence-based application security.

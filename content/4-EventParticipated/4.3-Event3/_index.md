@@ -79,17 +79,6 @@ Community discussion helped me identify gaps in my own monitoring and security a
 
 The most important lesson was that system health should be evaluated from the user’s perspective. Reliable cloud engineering also requires ownership, evidence, and security controls throughout the development lifecycle.
 
-#### Some event photos
 
-![Bui Huu Loi attending the AWS Tech Meetup and Community Knowledge Sharing event in person](/images/events/aws-tech-meetup-2026-07-22-rev2.png)
-
-<!-- EVENT 2 ADDITIONAL PHOTO 1: Insert another photo from the monitoring, certification, or security session below this comment.
-Suggested file: static/images/events/bui-huu-loi-event2-session.jpg
-Do not expose private attendee or account information.
--->
-
-<!-- EVENT 2 ADDITIONAL PHOTO 2: Insert a permitted group or networking photo below this comment.
-Suggested file: static/images/events/bui-huu-loi-event2-networking.jpg
--->
 
 > Overall, the meetup strengthened my understanding of user-centered monitoring, shared cloud responsibility, certification reasoning, and evidence-based application security.
