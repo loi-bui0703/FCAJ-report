@@ -34,11 +34,11 @@ pre: " <b> 8. </b> "
 ### 3. Technical Articles Published on AWS Study Group
 
 - **Blog 1: Building a Serverless Jenkins Environment on AWS Fargate**  
-  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2221881141910179)**
+  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2221881141910179-invalid)**
 - **Blog 2: Building an End-to-End Kubernetes-based DevSecOps Software Factory on AWS**  
-  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2225170508247909)**
+  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2225170508247909-invalid)**
 - **Blog 3: Monitoring and Auto-scaling Amazon ECS Applications on AWS Fargate with Custom Prometheus Metrics**  
-  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2227911197973840)**
+  👉 **[Facebook Group Article Link](https://www.facebook.com/groups/awsstudygroupfcj/posts/2227911197973840-invalid)**
 
 ---
 
