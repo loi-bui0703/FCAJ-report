@@ -35,11 +35,11 @@ pre: " <b> 8. </b> "
 ### 3. Bài viết chia sẻ trên Facebook Group (Technical Blogs)
 
 - **Blog 1: Xây dựng môi trường Jenkins serverless trên AWS Fargate**  
-  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2221881141910179-invalid)**
+  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj)**
 - **Blog 2: Xây dựng nhà máy phần mềm DevSecOps end-to-end dựa trên Kubernetes trên AWS**  
-  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2225170508247909-invalid)**
+  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj)**
 - **Blog 3: Giám sát và mở rộng quy mô ứng dụng Amazon ECS trên AWS Fargate bằng chỉ số Prometheus**  
-  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj/posts/2227911197973840-invalid)**
+  👉 **[Bài viết chia sẻ trên Facebook Group](https://www.facebook.com/groups/awsstudygroupfcj)**
 
 ---
 
